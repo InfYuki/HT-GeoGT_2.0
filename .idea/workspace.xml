@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bd0d674-e7cb-4404-ba0a-2fd56447a268" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ht_geogt/linear_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ht_geogt/model/modeling_geoformer_linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ht_geogt/model/modeling_geoformer_mask_cd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ht_geogt/model/modeling_geoformer_org.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnhancedData.py" beforeDir="false" afterPath="$PROJECT_DIR$/EnhancedData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Geoformer-Molecule3D.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Geoformer-QM9.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/energy_U0.ckpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/datasets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/datasets/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/datasets/molecule3d.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/datasets/molecule3d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/datasets/qm9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/datasets/qm9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/datasets/qm9_edge.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/datasets/qm9_edge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/datasets/qm9_enhanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/datasets/qm9_enhanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/model/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/model/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/model/collating_geoformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/model/collating_geoformer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/model/configuration_geoformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/model/configuration_geoformer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/model/modeling_geoformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/model/modeling_geoformer_fullnode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/model/modeling_geoformer_layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/model/modeling_geoformer_layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/model/modeling_priors.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/model/modeling_priors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/module.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/modules/PathFinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/modules/PathFinder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/modules/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/modules/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/modules/centerpathlevel_attn.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/modules/centerpathlevel_attn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/modules/encode_tokens.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/modules/encode_tokens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/modules/tokenlevel_attn.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/modules/tokenlevel_attn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoformer/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/ht_geogt/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temptest.py" beforeDir="false" afterPath="$PROJECT_DIR$/temptest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2zhxdIoERmyE4iyD7tuWKgYayaY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.EnhancedData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.centerpathlevel_attn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model_benchmark.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pt_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temptest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temptest2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/code/Diff_GrokFormer-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\HT-GeoGT\geoformer" />
+      <recent name="C:\code\HT-GeoGT\geoformer\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="EnhancedData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HT-GeoGT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EnhancedData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_benchmark" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HT-GeoGT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_benchmark.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pt_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HT-GeoGT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pt_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temptest2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HT-GeoGT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temptest2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HT-GeoGT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.model_benchmark" />
+        <item itemvalue="Python.pt_test" />
+        <item itemvalue="Python.EnhancedData" />
+        <item itemvalue="Python.temptest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bd0d674-e7cb-4404-ba0a-2fd56447a268" name="Changes" comment="" />
+      <created>1752197191568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752197191568</updated>
+      <workItem from="1752197192616" duration="3431000" />
+      <workItem from="1752201276668" duration="4642000" />
+      <workItem from="1752279733769" duration="17419000" />
+      <workItem from="1752366926000" duration="56118000" />
+      <workItem from="1752666004496" duration="9917000" />
+      <workItem from="1752716183585" duration="27765000" />
+      <workItem from="1752804360520" duration="2205000" />
+      <workItem from="1752891119941" duration="15126000" />
+      <workItem from="1752983501395" duration="1932000" />
+      <workItem from="1753148643017" duration="2276000" />
+      <workItem from="1753152935674" duration="20177000" />
+      <workItem from="1753272700006" duration="4857000" />
+      <workItem from="1753319813100" duration="5976000" />
+      <workItem from="1753441457809" duration="349000" />
+      <workItem from="1753678495061" duration="7847000" />
+      <workItem from="1755052380328" duration="642000" />
+      <workItem from="1765937804992" duration="753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HT_GeoGT$train.coverage" NAME="train Coverage Results" MODIFIED="1753680608267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HT_GeoGT$EnhancedData.coverage" NAME="EnhancedData Coverage Results" MODIFIED="1752916710648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HT_GeoGT$model_benchmark.coverage" NAME="model_benchmark Coverage Results" MODIFIED="1753273547716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HT_GeoGT$data.coverage" NAME="data Coverage Results" MODIFIED="1752282425065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geoformer" />
+    <SUITE FILE_PATH="coverage/HT_GeoGT$centerpathlevel_attn.coverage" NAME="centerpathlevel_attn Coverage Results" MODIFIED="1752372510500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geoformer/modules" />
+    <SUITE FILE_PATH="coverage/HT_GeoGT$temptest2.coverage" NAME="temptest2 Coverage Results" MODIFIED="1752898337202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HT_GeoGT$temptest.coverage" NAME="temptest Coverage Results" MODIFIED="1752498073475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HT_GeoGT$pt_test.coverage" NAME="pt_test Coverage Results" MODIFIED="1752983832762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
