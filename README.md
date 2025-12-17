@@ -7,7 +7,7 @@ This repository is the official implementation of “[HT-GeoGT: A Hierarchical T
 
 ## Overview
 
-![arch](docs/HT-GeoGT.png)
+![arch](docs/HT-GeoGT-modified.png)
 
 
 
