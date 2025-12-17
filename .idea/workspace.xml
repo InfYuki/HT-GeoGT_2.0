@@ -9,7 +9,10 @@
       <change afterPath="$PROJECT_DIR$/ht_geogt/model/modeling_geoformer_linear.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ht_geogt/model/modeling_geoformer_mask_cd.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ht_geogt/model/modeling_geoformer_org.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/EnhancedData.py" beforeDir="false" afterPath="$PROJECT_DIR$/EnhancedData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUPPORT.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/Geoformer-Molecule3D.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/Geoformer-QM9.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/energy_U0.ckpt" beforeDir="false" />
@@ -59,33 +62,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.EnhancedData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.centerpathlevel_attn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.model_benchmark.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pt_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.temptest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.temptest2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.train.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/code/Diff_GrokFormer-master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.EnhancedData.executor": "Run",
+    "Python.centerpathlevel_attn.executor": "Run",
+    "Python.data.executor": "Run",
+    "Python.model_benchmark.executor": "Run",
+    "Python.pt_test.executor": "Run",
+    "Python.temptest.executor": "Run",
+    "Python.temptest2.executor": "Run",
+    "Python.train.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/code/Diff_GrokFormer-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\code\HT-GeoGT\geoformer" />
@@ -250,7 +253,7 @@
       <workItem from="1753441457809" duration="349000" />
       <workItem from="1753678495061" duration="7847000" />
       <workItem from="1755052380328" duration="642000" />
-      <workItem from="1765937804992" duration="1235000" />
+      <workItem from="1765937804992" duration="1830000" />
     </task>
     <servers />
   </component>
